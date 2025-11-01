@@ -19,7 +19,7 @@ Comics condense emotion, action, and world-building into panels and pages.
 ---
 
 ### Ways to explore
-### I just learned a few things using * so bear with me :)
+<!--I just learned a few things using * so bear with me :)-->
 
 - **Pick an era:** Golden Age, Silver Age, Bronze Age
 - *Find a character:* heroes, anti-heroes, sidekicks, and villains all teach different life lessons.
