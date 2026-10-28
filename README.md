@@ -3,6 +3,7 @@ Repository for IS301
 # Comic Books
 
 A crude repository dedicated to comic books, using markdown syntax.
+Super nerdy, but it works!
 
 ## Why comics matter (in my HUMBLE opinion)
 
