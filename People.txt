@@ -1,0 +1,5 @@
+Ororo Munroe : North : Gardening
+Scott Summers:South:Chess
+Jean Grey : West:Robotics
+Logan Howlett : East : Hiking
+Kurt Wagner:North :Running
