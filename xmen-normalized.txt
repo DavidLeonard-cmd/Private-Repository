@@ -1,0 +1,13 @@
+issue_number,title,release_date,price
+"42","Uncanny X-Men #42 Cover A","2027-01-27","4.99"
+"41","Uncanny X-Men #41 Cover A","2027-01-13","4.99"
+"40","Uncanny X-Men #40","2026-12-16","4.99"
+"39","Uncanny X-Men #39","2026-11-25","4.99"
+"38","Uncanny X-Men #38","2026-11-04","4.99"
+"37","Uncanny X-Men #37","2026-10-21","4.99"
+"36","Uncanny X-Men #36","2026-09-30","4.99"
+"35","Uncanny X-Men #35","2026-09-16","4.99"
+"34","Uncanny X-Men #34","2026-08-19","4.99"
+"33","Uncanny X-Men #33","2026-08-05","4.99"
+"32","Uncanny X-Men #32","2026-07-22","4.99"
+"31","Uncanny X-Men #31","2026-07-08","4.99"
