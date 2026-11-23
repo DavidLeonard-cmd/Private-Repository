@@ -7,6 +7,7 @@ Author: David Leonard.
 This script displays an X-Men roster and counts the team members.
 The sample input file is xmen-roster.txt.
 Each line contains one character and their powersets.
+The roster includes Wolverine, Storm, Cyclops, Jean Grey, and Nightcrawler.
 
 ## How to run
 
